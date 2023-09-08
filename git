@@ -9,5 +9,9 @@ create .gitignore file
 
 всегда
 git add ./namefile
+git commit -m 'result'
+git push origin master/main
 
 
+полезные команды гита
+git status -s
