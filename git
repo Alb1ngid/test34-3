@@ -1,0 +1,13 @@
+1 раз
+git init
+git remote add origin link
+
+create .gitignore file
+            .idea
+            __pycache__\
+            venv
+
+всегда
+git add ./namefile
+
+
