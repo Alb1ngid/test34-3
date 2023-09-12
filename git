@@ -19,4 +19,6 @@ git status -s
 
 git clone link
 git remote add origin
+
 git rm --cached namefile
+git rm --cached -r namedir
