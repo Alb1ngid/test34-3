@@ -17,8 +17,10 @@ git push origin master/main
 git status -s
 
 
+для копирования данных
 git clone link
 git remote add origin
 
+команда удаления
 git rm --cached namefile
 git rm --cached -r namedir
