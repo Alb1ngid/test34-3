@@ -19,6 +19,8 @@ git status -s
 
 для копирования данных
 git clone link
+
+отвязка репозитория
 git remote add origin
 
 команда удаления

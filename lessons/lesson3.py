@@ -1,6 +1,7 @@
 from art import tprint
 tprint('go')
-
+import random
+print(random.randint(1,8))
 
 class A: ...  # родительский супер класс
 
@@ -18,7 +19,7 @@ class B(A): ...  # дочерний класс
 
 # 2
 
-class Bank:
+class Bank(object):
     def __init__(self, name, age, key, money):
         self.name = name
         self.age = age
